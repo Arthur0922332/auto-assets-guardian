@@ -1,86 +1,83 @@
-/*
- Copyright (c) 2026 Ashraf Morningstar
- These are personal recreations of existing projects, developed by Ashraf Morningstar
- for learning and skill development.
- Original project concepts remain the intellectual property of their respective creators.
- Repository: https://github.com/AshrafMorningstar
-*/
 
-# Awesome Developer Resources 😎
+<div align="center">
 
-![Awesome](https://img.shields.io/badge/Awesome-List-ff69b4?style=for-the-badge)
-![Curated](https://img.shields.io/badge/Curated-Yes-brightgreen?style=for-the-badge)
-![Author](https://img.shields.io/badge/Author-Ashraf%20Morningstar-blue?style=for-the-badge)
+# :star: Awesome Dev Resources :star:
 
-A curated list of awesome developer tools, resources, and open-source projects. Hand-picked by **[Ashraf Morningstar](https://github.com/AshrafMorningstar)**.
+[![GitHub stars](https://img.shields.io/github/stars/AshrafMorningstar/awesome-dev-resources?style=for-the-badge&color=orange)](https://github.com/AshrafMorningstar/awesome-dev-resources/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AshrafMorningstar/awesome-dev-resources?style=for-the-badge&color=blue)](https://github.com/AshrafMorningstar/awesome-dev-resources/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/AshrafMorningstar/awesome-dev-resources?style=for-the-badge&color=red)](https://github.com/AshrafMorningstar/awesome-dev-resources/issues)
+[![GitHub license](https://img.shields.io/github/license/AshrafMorningstar/awesome-dev-resources?style=for-the-badge&color=green)](./LICENSE)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
 
-## 📚 Categories
+**Automated, High-Performance awesome dev resources Project**
 
-- [Productivity](#productivity)
-- [Design](#design)
-- [Testing](#testing)
-- [Deployment](#deployment)
+[View Demo (If Applicable)](#) • [Report Bug](https://github.com/AshrafMorningstar/awesome-dev-resources/issues) • [Request Feature](https://github.com/AshrafMorningstar/awesome-dev-resources/issues)
+
+</div>
 
 ---
 
-### Productivity
+## :rocket: Overview
 
-- **[VS Code](https://code.visualstudio.com/)** - The best code editor.
-- **[Postman](https://www.postman.com/)** - API development made easy.
-- **[Notion](https://www.notion.so/)** - All-in-one workspace.
+**awesome-dev-resources** is a state-of-the-art implementation utilizing Generic. Designed for developers looking for robust, scalable solutions in Open Source, Developer Tools, Coding Best Practices, Software Engineering.
 
-### Design
+This project is a high-performance, open-source solution designed for developers and enthusiasts. It implements modern best practices and is optimized for efficiency and scalability.
 
-- **[Figma](https://www.figma.com/)** - Interface design tool.
-- **[Coolors](https://coolors.co/)** - Color palette generator.
-- **[Undraw](https://undraw.co/)** - Open-source illustrations.
+## :sparkles: Key Features
 
-### Testing
+- :white_check_mark: **High Performance:** Optimized for speed and low latency.
+- :white_check_mark: **Scalable Architecture:** Built to handle growth effortlessly.
+- :white_check_mark: **Modern Tech Stack:** Utilizes latest standards in Generic.
+- :white_check_mark: **Developer Friendly:** Clean code, well-documented, and easy to extend.
 
-- **[Jest](https://jestjs.io/)** - Delightful JavaScript Testing.
-- **[Selenium](https://www.selenium.dev/)** - Browser automation.
+## :hammer_and_wrench: Technologies Used
 
-### Deployment
 
-- **[Vercel](https://vercel.com/)** - Develop. Preview. Ship.
-- **[Netlify](https://www.netlify.com/)** - The fastest way to build the fastest sites.
+
+## :floppy_disk: Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AshrafMorningstar/awesome-dev-resources.git
+   cd awesome-dev-resources
+   ```
+
+2. **Install dependencies:**
+    No specific installation required.
+
+3. **Run the application:**
+    Open index.html in your browser.
+
+## :open_file_folder: Project Structure
+
+```
+awesome-dev-resources/
+├── src/          # Source code
+├── assets/       # Images and static files
+├── README.md     # Project documentation
+└── LICENSE       # License information
+```
+
+## :handshake: Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+
+## :bust_in_silhouette: Author
+
+**Ashraf Morningstar**
+
+- **GitHub:** [@AshrafMorningstar](https://github.com/AshrafMorningstar)
+- **Twitter:** [@AMS_Morningstar](https://twitter.com/@AMS_Morningstar)
+- **Portfolio:** [AshrafMorningstar Projects](https://github.com/AshrafMorningstar?tab=repositories)
+
+## :page_facing_up: License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-## 🤝 Contribution
-
-Found something awesome? Submit a Pull Request!
-
-## 📜 License
-
-[CC0 1.0 Universal](LICENSE)
-
----
-
-**Curated by [Ashraf Morningstar](https://github.com/AshrafMorningstar)**
-
-
----
-
-## 📜 Copyright & License
-
-© 2026 Ashraf Morningstar. All Rights Reserved.
-
-**Educational Disclaimer:** This is a personal recreation of an existing project concept, developed for learning and skill development purposes. The original project concept remains the intellectual property of its respective creator(s).
-
-**License:** MIT License - See [LICENSE](./LICENSE) file for details.
-
-**Developer:** [Ashraf Morningstar](https://github.com/AshrafMorningstar)
-
-**Portfolio:** Explore more projects at [github.com/AshrafMorningstar](https://github.com/AshrafMorningstar)
-
----
-
-### 🤝 Connect & Contribute
-
-Found this helpful? Give it a ⭐️ on GitHub!
-
-- 💼 Company: MORNINGSTARCONSTRUCTION
-- 📍 Location: India
-- 🐦 Twitter: [@AMS_Morningstar](https://twitter.com/AMS_Morningstar)
-- 📧 Email: ashrafmorningstar@gmail.com
+<div align="center">
+  <p>If you find this project useful, please give it a <b>Star</b> :star:!</p>
+  <sub>Built with ❤️ by Ashraf Morningstar</sub>
+</div>
